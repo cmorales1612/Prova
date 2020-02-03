@@ -1,0 +1,69 @@
+* {
+  float: left;
+}
+
+body {
+    width: 100%;
+}
+
+#principal {
+  width: auto;
+}
+
+header {
+  width: 99%;
+  background-color: lightsteelblue;
+}
+
+#logo {
+  width: 150px;
+  padding: 3%;
+}
+
+h1 {
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-right: auto;
+  text-align: center;
+  font-size: 2.5em;
+  color: royalblue;
+}
+
+#menu {
+  width: 15%;
+  height: 600px;
+  background-color: lightsteelblue;
+  padding: 1%;
+}
+
+ul, li, a {
+  float: none;
+}
+
+#contingut {
+  width: 55%;
+  height: 600px;
+  padding: 1%;
+  background-color: whitesmoke;
+}
+
+#contingut h2, p {
+  float: none;
+}
+
+h2 {
+  color: royalblue;
+}
+p{
+  text-align: justify;
+}
+
+#publi {
+  width: 20%;
+  padding: 2%;
+}
+
+.publi {
+  float: none;
+  width: 100%;
+}
